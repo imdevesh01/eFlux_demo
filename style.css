@@ -20,10 +20,7 @@ body
     margin-left: 20%;
     margin-top: 10%;
 }
-.row
-{
-    height: 100%;
-}
+
 h1
 {
     font-family: "Montserrat-Black";
@@ -89,4 +86,17 @@ button
 {
     padding: 0% 1%;
     text-align: center;
+}
+
+@media (max-width:1000px)
+{
+    .title-img
+    {
+        transform: rotate(0);
+        position: static;
+    }
+    body
+    {
+        text-align: center;
+    }
 }
