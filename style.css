@@ -52,3 +52,41 @@ button
     font-family: "Montserrat-Light";
     font-size: 1.2rem;
 }
+
+#features
+{
+    text-align: center;
+    padding: 7% 15%;
+}
+.feature-box
+{
+    font-family: "Montserrat-Bold";
+}
+.pics
+{
+    text-align: center;
+    
+}
+.pics h1
+{
+    font-size:250%;
+}
+.caro
+{
+    background-color:#FF4C68 ;
+}
+.carousel-item
+{
+    padding: 5% 15%;
+}
+
+#pricing
+{
+    padding: 5% 12%;
+}
+
+.pricing-column
+{
+    padding: 0% 1%;
+    text-align: center;
+}
