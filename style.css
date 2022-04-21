@@ -94,6 +94,8 @@ button
     {
         transform: rotate(0);
         position: static;
+        margin-left: 0;
+        margin-top: 0;
     }
     body
     {
